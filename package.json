@@ -1,0 +1,18 @@
+{
+  "name": "co-monk",
+  "version": "0.0.1",
+  "repository": "visionmedia/co-monk",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "thunkify": "0.0.1",
+    "monk": "~0.7.1"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "co": "~2.3.0"
+  },
+  "files": ["index.js"],
+  "license": "MIT"
+}
