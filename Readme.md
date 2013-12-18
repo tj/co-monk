@@ -9,6 +9,18 @@
 $ npm install co-monk
 ```
 
+## Setup
+
+  Call `wrap()` on collections to make them generator friendly:
+
+```js
+var monk = require('monk');
+var wrap = require('co-monk');
+var db = monk('localhost/test');
+
+var users = wrap(db.get('users'));
+```
+
 ## Example
 
 ```js
