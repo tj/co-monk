@@ -2,8 +2,8 @@
   "name": "co-monk",
   "version": "0.0.1",
   "repository": "visionmedia/co-monk",
-  "description": "",
-  "keywords": [],
+  "description": "mongodb generator goodness for co",
+  "keywords": ["co", "monk", "generators", "mongo", "mongodb"],
   "dependencies": {
     "thunkify": "0.0.1",
     "monk": "~0.7.1"
