@@ -5,13 +5,13 @@
   "description": "mongodb generator goodness for co",
   "keywords": ["co", "monk", "generators", "mongo", "mongodb"],
   "dependencies": {
-    "thunkify": "0.0.1",
-    "monk": "~0.7.1"
+    "thunkify": "0.0.1"
   },
   "devDependencies": {
     "mocha": "*",
     "should": "*",
-    "co": "~2.3.0"
+    "co": "~2.3.0",
+    "monk": "~0.7.1"
   },
   "files": ["index.js"],
   "license": "MIT"
