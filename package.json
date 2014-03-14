@@ -1,6 +1,6 @@
 {
   "name": "co-monk",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": "visionmedia/co-monk",
   "description": "mongodb generator goodness for co",
   "keywords": ["co", "monk", "generators", "mongo", "mongodb"],
